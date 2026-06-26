@@ -1,0 +1,43 @@
+{
+  "name": "Mattel Dream Mobile (80th Anniversary)",
+  "description": "Physical Mattel Dream Mobile Hot Wheels in unopened blister packaging. This NFT represents the digital record of the physical collectible owned by the creator.",
+  "image": "ipfs://bafybeigqnlpga6fkbchoy4dg6v424urpbxvma2kpvt6rnrpxbtb7egv7bu/HW001_Front.jpg",
+  "attributes": [
+    {
+      "trait_type": "Asset ID",
+      "value": "HW-001"
+    },
+    {
+      "trait_type": "Brand",
+      "value": "Hot Wheels"
+    },
+    {
+      "trait_type": "Manufacturer",
+      "value": "Mattel"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Mattel Dream Mobile"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "80th Anniversary"
+    },
+    {
+      "trait_type": "Packaging",
+      "value": "Unopened Blister"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Mint on Card"
+    },
+    {
+      "trait_type": "Digital Twin Type",
+      "value": "Photo-Based"
+    },
+    {
+      "trait_type": "Documentation",
+      "value": "Owner Proof Photo Included"
+    }
+  ]
+}
