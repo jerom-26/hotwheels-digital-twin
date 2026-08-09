@@ -6,7 +6,7 @@ A small proof-of-concept I built to explore how a physical collectible can be li
 
 The idea was to take a real Hot Wheels car from my collection, document it properly, store its information and images as metadata, and mint an ERC-721 token representing that physical item.
 
-Prototype
+## Prototype
 
 For the first test I used a Mattel Dream Mobile – 80th Anniversary Hot Wheels.
 
@@ -20,7 +20,7 @@ I assigned it the ID HW-001 and documented details including:
 
 The NFT metadata points to the collectible image stored on IPFS.
 
-How it works
+## How it works
 
 The basic flow is:
 
@@ -34,7 +34,7 @@ function mint(address to, string memory uri) public onlyOwner
 
 For now, minting is restricted to the contract owner since this is only a prototype.
 
-Tech used
+## Tech used
 
 * Solidity
 * ERC-721
@@ -42,7 +42,7 @@ Tech used
 * IPFS
 * JSON
 
-What I wanted to test
+## What I wanted to test
 
 The main question behind this project was whether I could give a physical collectible a digital identity without replacing the physical item itself.
 
@@ -50,6 +50,6 @@ The NFT is simply the digital record. The actual Hot Wheels car remains the real
 
 Eventually I would like to experiment with using these digital twins inside games or interactive 3D collections, but this repository is currently just the first working prototype.
 
-Disclaimer
+##Disclaimer
 
 This is a personal experimental project and is not affiliated with Mattel or Hot Wheels.
