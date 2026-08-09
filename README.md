@@ -34,15 +34,6 @@ function mint(address to, string memory uri) public onlyOwner
 
 For now, minting is restricted to the contract owner since this is only a prototype.
 
-Project structure
-
-Contracts/
-  DigitalTwins.sol     # ERC-721 contract
-Raw/                   # Original photos
-jpg/                   # Processed collectible photos
-metadata.json          # Metadata for HW-001
-README.md
-
 Tech used
 
 * Solidity
