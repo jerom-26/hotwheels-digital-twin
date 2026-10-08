@@ -1,4 +1,3 @@
-<img width="2268" height="4032" alt="HW001_Proof" src="https://github.com/user-attachments/assets/9648fe53-5728-43c8-b11b-3a008ef7cd8c" />
 # hotwheels-digital-twin
 
 Hot Wheels Digital Twin
@@ -10,7 +9,7 @@ The idea was to take a real Hot Wheels car from my collection, document it prope
 ## Prototype
 
 For the first test I used a Mattel Dream Mobile – 80th Anniversary Hot Wheels.
-<img width="2268" height="4032" alt="HW001_Proof" src="https://github.com/user-attachments/assets/9648fe53-5728-43c8-b11b-3a008ef7cd8c" width="600" height="600"/>
+<img alt="HW001_Proof" src="https://github.com/user-attachments/assets/9648fe53-5728-43c8-b11b-3a008ef7cd8c" width="800" height="800"/>
 
 I assigned it the ID HW-001 and documented details including:
 
